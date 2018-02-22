@@ -1,6 +1,6 @@
 # Lobby-Robot
 ![Cornell Tech](images/CT_logo1.png)
-![Cornell Tech](lobby robot logo.png)
+![Cornell Tech](lobbyrobotlogo.jepg)
 Startup Studio challenge at Conell Tech 2018 Spring.
 
 ## Narrative 
