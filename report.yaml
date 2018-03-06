@@ -1,13 +1,13 @@
 company:
-  name: Team Awesome
-  logo: Cornell_NYC_Tech_logo.png
-product_hmw: How might we showcase Cornell Tech students work?
+  name: Lobby Robot
+  logo: lobbyrobotlogo.jpg
+  
 tags:
   - Computer Vision
   - Media
 
 product_narrative: |
-  
+
   A kiosk that placed at the building lobby, which utilizes facial recognition technology to sign up guest and give access.
 team:
   picture: team.jpeg
